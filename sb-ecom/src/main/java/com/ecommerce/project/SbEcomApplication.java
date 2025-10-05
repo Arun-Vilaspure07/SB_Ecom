@@ -8,6 +8,6 @@ public class SbEcomApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SbEcomApplication.class, args);
+		System.out.println("Welcome to Ecommerce Project");
 	}
-
 }
